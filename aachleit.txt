@@ -1,0 +1,6 @@
+git Clone https://github.com/AchleitnerAlex/Test_aachleit_aeder
+git Status
+git add README.txt
+git add .gitignore.txt
+git commit -m "inital commit"
+git push
